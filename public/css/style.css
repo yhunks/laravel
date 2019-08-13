@@ -1,0 +1,13 @@
+.login-page {
+    background-image: url("../img/r.jpg");
+}
+
+.login-box 
+{
+    background:rgba(0, 0, 0, 0.);
+    box-shadow: 0px 0px 10px 6px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 15px auto;
+    padding: 20px;
+}
